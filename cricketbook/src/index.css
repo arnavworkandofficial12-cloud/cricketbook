@@ -1,0 +1,15 @@
+.message {
+    padding: 10px;
+    font-size: 30px;
+    border: 10px;
+    border-color: bisque;
+    background-color: blanchedalmond;
+}
+
+.Errormessage {
+    padding: 10px;
+    font-size: 30px;
+    border: 10px;
+    border-color: darkred;
+    background-color: red;
+}
