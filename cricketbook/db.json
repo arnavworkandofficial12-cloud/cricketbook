@@ -1,0 +1,38 @@
+{
+  "players": [
+    {
+      "id": "3",
+      "name": "Steve Smith",
+      "battingposition": 4,
+      "important": true
+    },
+    {
+      "id": "9",
+      "name": "Travis Head",
+      "battingposition": 5,
+      "important": true
+    },
+    {
+      "id": "10",
+      "name": "Zak Crawley",
+      "battingposition": 1,
+      "important": false
+    },
+    {
+      "name": "Tom Latham",
+      "battingposition": "3",
+      "id": "Gt_lgCBvbbU"
+    },
+    {
+      "name": "Joe root",
+      "battingposition": "3",
+      "id": "6cej3lco_Lw"
+    },
+    {
+      "name": "Joe Buttler",
+      "battingposition": "4",
+      "id": "BrfexayyBwU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
